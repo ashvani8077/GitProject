@@ -1,0 +1,12 @@
+{
+  "name": "node-ci-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js CI example",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Build successful",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
